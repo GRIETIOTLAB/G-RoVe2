@@ -108,8 +108,8 @@ void stpMotion(){
 void lftMotion(){
    digitalWrite(IN1, LOW);
   digitalWrite(IN2, LOW);
-  digitalWrite(IN3, LOW);
-  digitalWrite(IN4, HIGH);
+  digitalWrite(IN3, HIGH);
+  digitalWrite(IN4, LOW);
 
 }
 void rgtMotion(){
