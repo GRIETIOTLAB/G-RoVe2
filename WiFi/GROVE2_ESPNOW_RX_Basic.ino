@@ -70,14 +70,14 @@ void loop() {
   case 'l':
   lftMotion();
   timeNow= millis();
-  while(millis() < timeNow + 100){}
+  while(millis() < timeNow + 300){}
   myData='s';
   stpMotion();
   break;
   case 'r':
   rgtMotion();
   timeNow= millis();
-  while(millis() < timeNow + 100){}
+  while(millis() < timeNow + 300){}
   myData='s';
   stpMotion();
   break;
