@@ -5,7 +5,9 @@ It is based around a ESP32 based controller and is a two wheeled robot vehicle
 
 The following projects can be done with the G-RoVe 2 vehicle:  
 
-Remote control using Bluetooth  
+Remote control using Bluetooth
+
+Remote control using voice commands
 
 Remote control using WiFi  
 
