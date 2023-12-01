@@ -1,0 +1,3 @@
+Button
+Voice
+Accelerometer
